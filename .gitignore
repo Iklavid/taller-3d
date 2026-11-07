@@ -1,0 +1,8 @@
+venv/
+modelos/
+salida/
+guardados/
+triposg/
+__pycache__/
+*.pyc
+.DS_Store

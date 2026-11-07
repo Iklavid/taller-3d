@@ -1,0 +1,24 @@
+# Python 3.10. Torch con CUDA 12.4 se instala aparte (ver instalar.bat / instalar.sh)
+gradio==6.31.0
+trimesh==5.2.0
+numpy==2.2.6
+pillow==12.3.0
+pillow_heif==1.8.1
+scipy==1.15.3
+scikit-image==0.25.2
+shapely==2.1.2
+manifold3d==3.5.4
+pymeshlab==2025.7.post1
+fast_simplification==0.2.0
+opencv-python-headless==5.0.0.93
+rembg==2.0.69
+onnxruntime-gpu==1.23.2
+transformers==5.20.2
+huggingface_hub==1.33.0
+diffusers==0.41.0
+accelerate==1.15.0
+peft==0.21.2
+einops==0.8.2
+omegaconf==2.4.0
+jaxtyping==0.3.7
+typeguard==4.6.0
