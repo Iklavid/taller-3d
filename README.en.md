@@ -4,6 +4,8 @@
 
 A local web page (Gradio) that turns photos, drawings and text into printable STL files, using AI that runs on your own computer. The interface is in Spanish.
 
+![Taller 3D](capturas/taller.png)
+
 - **3D figure from a photo**: removes the background, then TripoSG builds the whole figure.
 - **Relief from a photo**: a plaque shaped by Depth Anything V2 depth.
 - **Lithophane**: the photo shows when you hold it against the light.

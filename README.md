@@ -4,6 +4,8 @@
 
 Página web local (Gradio) que convierte fotos, dibujos y textos en STL listos para imprimir, con IA que corre en tu propio ordenador.
 
+![Taller 3D](capturas/taller.png)
+
 ## Qué hace
 - **Figura 3D desde una foto**: la IA quita el fondo y TripoSG crea la figura entera.
 - **Relieve desde una foto**: placa con relieve según la profundidad que calcula Depth Anything V2.
